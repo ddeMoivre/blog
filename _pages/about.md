@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm mathematician, I blog about machin learnig and modeling.
 
 
 
